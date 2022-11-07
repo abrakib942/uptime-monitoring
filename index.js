@@ -14,7 +14,7 @@ const app = {};
 //   function (err) {
 //     console.log(`error was`, err);
 //   }
-// );
+// )
 // data.read("test", "newFile", (err, result) => {
 //   console.log(err, result);
 // });
